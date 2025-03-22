@@ -12,6 +12,6 @@
 - **[FashionMnistNAS](https://github.com/Tzanis97/fashionMnistNAS.git)** - Application of NAS (Neural Architecture Search) to classification of fashion images.
 
 ## 🌐 Web Development
-**[Guidar](http://guidar.infinityfreeapp.com/)** A how-to demo webpage on classical guitar. 
+- **[Guidar](http://guidar.infinityfreeapp.com/)** A how-to demo webpage on classical guitar. 
 
 🔗 **To request access, please email me at tzanis.lea@gmail.com**
