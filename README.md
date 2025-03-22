@@ -1,7 +1,7 @@
 # My Project Portfolio
 
 ## 💻 Software Development
-- **[UnipiGuide](https://github.com/Tzanis97/UnipiGuide.git)** - A university navigation app. (🔒 Private Repo, access on request)
+- **[Unipi Guide](https://github.com/Tzanis97/UnipiGuide.git)** - A university navigation app. (🔒 Private Repo, access on request)
 - **[Zeus Palace](https://github.com/Tzanis97/ZeusPalace.git)** - An interactive hotel management system. (🔒 Private Repo, access on request)
   
 ## 📱 Android Development
