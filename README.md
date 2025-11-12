@@ -1,7 +1,7 @@
 # My Project Portfolio
 
 ## 💻 Software Development
-- **[Dept Interest Calculator](https://github.com/Tzanis97/InterestCalculator.git)** - Console application for calculating contractual and late payment interests over a debt amount (🔒 Private Repo, access on request)
+- **[Debt Interest Calculator](https://github.com/Tzanis97/InterestCalculator.git)** - Console application for calculating contractual and late payment interests over a debt amount (🔒 Private Repo, access on request)
 - **[Unipi Guide](https://github.com/Tzanis97/UnipiGuide.git)** - A university navigation app. (🔒 Private Repo, access on request)
 - **[Zeus Palace](https://github.com/Tzanis97/ZeusPalace.git)** - An interactive hotel management system. (🔒 Private Repo, access on request)
   
